@@ -95,8 +95,10 @@ function getCaloriesFromInputs(list) {
   return calories;
 }
 function clearForm() {
-  const inputContainers = Array.from(document.querySelectorAll('.input-container'));
-  for (const container  of inputContainers) {
+  const inputContainers = Array.from(
+    document.querySelectorAll(".input-container")
+  );
+  for (const container of inputContainers) {
     container.innerHTML = "";
   }
 
@@ -106,5 +108,5 @@ function clearForm() {
 }
 addEntryButton.addEventListener("click", addEntry);
 
-calorieCounter.addEventListener('submit',calculateCalories);
-clearButton.addEventListener('click',clearForm);
+calorieCounter.addEventListener("submit", calculateCalories);
+clearButton.addEventListener("click", clearForm);
