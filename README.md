@@ -29,7 +29,7 @@ ___
 main branch
 ```
 
-![Project-01-Preview](https://github.com/FahadHeiji/FCC/blob/main/imgs/Project01.png)
+![Project-01-Preview](https://github.com/FahadHeiji/FCC/blob/main/imgs/Project-01.png)
 ____
 ### Project-02: [Calorie Counter](https://calorie-counter-heiji.netlify.app)
 
@@ -39,4 +39,14 @@ git checkout P-02
 ```
 
 ![Project-02-Preview](https://github.com/FahadHeiji/FCC/blob/main/imgs/Project-02.png)
+____
+____
+### Project-03: [Date Formatter](https://date-formatter.netlify.app)
+
+  
+```git
+git checkout P-03
+```
+
+![Project-02-Preview](https://github.com/FahadHeiji/FCC/blob/main/imgs/Project-03.png)
 ____
