@@ -48,5 +48,15 @@ ____
 git checkout P-03
 ```
 
-![Project-02-Preview](https://github.com/FahadHeiji/FCC/blob/main/imgs/Project-03.png)
+![Project-03-Preview](https://github.com/FahadHeiji/FCC/blob/main/imgs/Project-03.png)
+____
+____
+### Project-04: [Palindrome Checker](https://palindrome-checker-heiji.netlify.app)
+
+  
+```git
+git checkout P-04
+```
+
+![Project-04-Preview](https://github.com/FahadHeiji/FCC/blob/main/imgs/Project-04.png)
 ____
