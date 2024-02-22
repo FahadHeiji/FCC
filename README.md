@@ -60,3 +60,13 @@ git checkout P-04
 
 ![Project-04-Preview](https://github.com/FahadHeiji/FCC/blob/main/imgs/Project-04.png)
 ____
+____
+### Project-05: [Football Team Cards](https://football-team-cards.netlify.app)
+
+  
+```git
+git checkout P-05
+```
+
+![Project-05-Preview](https://github.com/FahadHeiji/FCC/blob/main/imgs/Project-05.png)
+____
